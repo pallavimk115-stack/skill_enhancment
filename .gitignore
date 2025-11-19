@@ -1,0 +1,32 @@
+help.txt
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Node modules (if any JS projects)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+*.swp
+*.swo
